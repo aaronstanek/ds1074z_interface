@@ -1,0 +1,10 @@
+find
+
+set co-channels=1,2
+set co-count=5000
+set co-delay=0.3
+set co-format=json_clump
+
+set co-path=/home/aaron/Desktop/data/
+
+collect-data
